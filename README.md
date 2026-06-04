@@ -81,3 +81,6 @@ EDGETPU_DEVICE=usb:0 PREVIEW_EVERY=3 PREVIEW_MAX_FPS=8 ./run_original_ppe_camera
 - `docs/논문용_벤치마크_정리_20260412.md`: 논문용 벤치마크 정리
 - `docs/논문용_재측정_메모_20260412.md`: 재측정 메모
 - `docs/ORIGINAL_PACKAGE_README.md`: 백업 압축에 포함되어 있던 원본 README
+
+## Contributor
+- InJae_AI
